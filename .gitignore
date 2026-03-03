@@ -1,0 +1,6 @@
+*-api.json
+*.env
+.env*
+*credentials*
+*secret*
+node_modules/
